@@ -103,8 +103,7 @@ The tests simulate the task steps and validate that each action is performed as 
 ## File Structure
 
 ```
-TrumpfMetamation_Task1/
-├── TrumpfMetamation_Task1.sln         # Solution file
+TrumpfMetamation\_Task1/
 ├── Task1Automation.cs                 # Automation code
 ├── TrumpfMetamation_Task1.csproj      # Project configuration
 ├── README.md                          # Documentation file
